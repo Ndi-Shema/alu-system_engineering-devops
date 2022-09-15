@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# SSH configuration file for locall SSH client
+ssh-copy-id -n ~/.ssh/school 0ba455cc5d4b.e4f25896.alu-cod.online
