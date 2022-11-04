@@ -1,4 +1,5 @@
-nsfering file through ssh tunneling
+#!/usr/bin/env bash
+#transfering file through ssh tunneling
 if [ $# -gt 3 ]
 then
     scp -i "$4" -o StrictHostKeyChecking=no "$1" "$3@$2:~"
