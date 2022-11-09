@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/usr/bin/env bash
 #custom_http_header
 sudo apt update -y
@@ -17,3 +18,6 @@ sudo chown -R "$USER":"$USER" /etc/nginx/sites-available/default
 echo "$new_config" > /etc/nginx/sites-available/default
 sudo service nginx restart
 load balancer
+=======
+Load balancer
+>>>>>>> 1a5045aaa3998f70524106c8d272343ea070c831
