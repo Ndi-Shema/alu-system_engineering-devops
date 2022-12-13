@@ -2,3 +2,4 @@ web_stack_debugging_3
 web_stack_debugging_#3
 web_stack_debugging_#3_strace
 web_stack_debugging_#3_strace_your
+web_stack_debugging_#3_strace_your_friend
