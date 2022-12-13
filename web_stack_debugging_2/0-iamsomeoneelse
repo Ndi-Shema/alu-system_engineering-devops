@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-sudo -u "$2" whoami
+sudo -u "$1" whoami
